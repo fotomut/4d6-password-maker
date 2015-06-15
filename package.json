@@ -1,0 +1,25 @@
+{
+  "name": "4d6-password-maker",
+  "version": "1.0.0",
+  "description": "creates a four word easy-to-remember hard-to-guess password.",
+  "main": "wordlist.js",
+  "dependencies": {
+    "node-random": "^1.0.0",
+    "q": "^1.4.1",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fotomut/4d6-password-maker.git"
+  },
+  "author": "Matthew Kleiman <bigmickey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fotomut/4d6-password-maker/issues"
+  },
+  "homepage": "https://github.com/fotomut/4d6-password-maker"
+}
